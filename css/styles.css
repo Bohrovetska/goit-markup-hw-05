@@ -626,10 +626,8 @@ color: rgba(255, 255, 255, 1);
     justify-content: center;
 }
 
-.modal-btn:hover
- {
-    color: #404bbf;
-}
+
+
 
 .modal-title {
     font-family: Roboto;
