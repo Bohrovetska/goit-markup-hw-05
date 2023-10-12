@@ -765,7 +765,6 @@ border: 1px solid rgba(46, 47, 66, 0.4);
     letter-spacing: 0.04em;
     text-align: left;
     color: #8E8F99;
-    display: flex;
     align-items: center;
 }
 .check-text-box {
